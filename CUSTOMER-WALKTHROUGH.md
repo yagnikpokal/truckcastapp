@@ -19,8 +19,8 @@ Live weather changes, so mile-by-mile numbers on a later day will differ. The be
 | Map of routes, checkpoints, risk, ETAs, and summaries | Pass. Route cards, checkpoint table, and map popup. |
 | Corridor heatmap with a 0–48 hour slider | Pass. 49 hours, from the departure hour through +48 h. Moving the slider does not call the weather service again. |
 | Automated tests | Pass. 23 tests, 0 failures. |
-| GitHub repository | Not created yet. This folder is not a git repo. |
-| Hosted application | Not deployed yet. `render.yaml` is ready for Render. There is no public URL. |
+| GitHub repository | [Not created yet. This folder is not a git repo.](https://github.com/yagnikpokal/truckcastapp) |
+| Hosted application | [Not deployed yet. `render.yaml` is ready for Render. There is no public URL.](https://truckcast.onrender.com/) |
 
 ## How the rules are applied
 
